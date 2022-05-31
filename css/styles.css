@@ -91,7 +91,24 @@ ul {
     background-color: rgba(63, 157, 207, 0.195);
 }
 
+.hero-container {
+    margin-top: 100px;
+    
+}
+ 
 .hero-title {
-    
-    
+    width: 500px;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    letter-spacing: 0.06em;
+
+    margin-bottom: 30px;
+}
+.hero-text {
+    width: 450px;
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 1.18;
+    letter-spacing: 0.05em;
 }
